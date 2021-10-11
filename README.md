@@ -9,4 +9,5 @@ Folosind OpenXR + XR Interaction Toolkit to the following:
 Link video: https://gyazo.com/a8f5ed9f4d320880d81cac3740bbd880
 # Echipa
 Bogatu Daniel-Marian grupa IRM2
+
 Constantinescu George-Gabriel IRM2
